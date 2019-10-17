@@ -5,7 +5,7 @@ Consists of two components audio_hal and boards.
 
 
 ## Usage
-Copy two folders into components of ESP-ADF
-Run menuconfig and select AI thinker board
-Compile and enjoy!
+- Copy two folders into components of ESP-ADF  
+- Run menuconfig and select AI thinker board  
+- Compile and enjoy!  
 
