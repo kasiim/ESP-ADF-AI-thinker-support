@@ -1,5 +1,6 @@
 # ESP-ADF-AI-thinker-support
-ESP-ADF AI thinker audio develompent board support  
+ESP-ADF AI thinker audio develompent board support
+Consists of two components audio_hal and boards.
 **Date ported: 16.10.2019**  @ commit 751fe30460fdb2e0741ea3e9201f813a60a78c73
 
 
