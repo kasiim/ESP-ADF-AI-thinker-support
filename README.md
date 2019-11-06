@@ -9,3 +9,9 @@ Consists of two components audio_hal and boards.
 - Run menuconfig and select AI thinker board  
 - Compile and enjoy!  
 
+References:
+
+[1] http://wiki.ai-thinker.com/esp32-a1s
+[2] http://wiki.ai-thinker.com/esp32-audio-kit
+[3] https://github.com/espressif/esp-adf
+[4] https://github.com/donny681/esp-adf
