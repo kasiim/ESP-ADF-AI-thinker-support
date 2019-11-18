@@ -6,7 +6,7 @@
 #include "ac101.h"
 
 
-#define IIC_PORT	I2C_NUM_1
+#define IIC_PORT	I2C_NUM_0
 
 static const char *AC_TAG = "AC101_DRIVER";
 
